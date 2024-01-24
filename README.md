@@ -51,8 +51,7 @@ Built with:
 - EJS templating
 - OpenWeatherMap API
 
-## Deploy
-https://the-weather-app-xwom.onrender.com/
+
 
 ## License
 
